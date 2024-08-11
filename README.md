@@ -1,0 +1,14 @@
+# missi_phone_cn-user 14 UKQ1.231003.002 V816.0.7.0.UMSCNXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: redwood
+- flavor: missi_phone_cn-user
+- release: 14
+- id: UKQ1.231003.002
+- incremental: V816.0.7.0.UMSCNXM
+- tags: release-keys
+- fingerprint: Redmi/redwood/redwood:13/RKQ1.211001.001/V816.0.7.0.UMSCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_cn-user-14-UKQ1.231003.002-V816.0.7.0.UMSCNXM-release-keys
+- repo: redmi_redwood_dump
